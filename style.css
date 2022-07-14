@@ -28,3 +28,10 @@ body{
 #clear{
     grid-area: 1/1/2/4;
 }
+.zh{
+    font-weight: bolder;
+    font-size: 25px;
+}
+.men{
+    font-size:20px ;
+}
