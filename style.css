@@ -16,6 +16,11 @@ body{
 }
 .stroka{
     height: 30%;
+    background-color: rgb(161, 156, 156);
+    font-size: 50px;
+    text-align: right;
+    line-height:250px;
+    /*padding-top: 100px;*/
 }
 .znaki{
     display: grid;
